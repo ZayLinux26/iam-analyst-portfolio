@@ -8,6 +8,7 @@ I build identity systems in live tenants, break them on purpose, and write down 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaiah--herard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-herard)
 [![GitHub](https://img.shields.io/badge/GitHub-ZayLinux26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZayLinux26)
+[![Email](https://img.shields.io/badge/Email-isaiahherard26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiahherard26@gmail.com)
 [![Location](https://img.shields.io/badge/Chicago-Remote_ready-555555?style=for-the-badge&logo=googlemaps&logoColor=white)](#contact)
 
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -198,6 +199,7 @@ I've worked identity from both sides: building and running access controls, and 
 
 Working on Okta, Entra, or PAM problems of your own, or hiring for identity and privileged access? I'd like to hear about it.
 
+[![Email me](https://img.shields.io/badge/Email-isaiahherard26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiahherard26@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-herard)
 [![Follow on GitHub](https://img.shields.io/badge/Follow_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZayLinux26)
 [![Open the capstone](https://img.shields.io/badge/Open_the-Capstone-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric)
